@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on genome assembly and annotation, RNAseq, Chip-seq-ATAC-sec, etc data analysis. 📊🧬
 - 📫 How to reach me: Search me on social networks by this username.📲🌐
 - 😄 Pronouns: He/Him.  🙋🏻‍♂️
-- ⚡ Fun fact: I love camping and hiking. 🏔️
+- ⚡ Fun fact: I love camping and hiking. 🏔️🚶🏻
 
 <!---
 baielx/baielx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
